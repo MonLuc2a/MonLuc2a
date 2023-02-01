@@ -11,3 +11,9 @@ Thank you for your visit and have a nice surfing!
 - 🔭 I’m currently working for my b2 degree in computer science
 - 🌱 I’m currently learning new language
 - 📫 How to reach me: lucas.monribot@ynov.com
+
+# Éducation
+
+Ynov Toulouse Campus, B2 informatique
+
+Je suis enthousiaste à l'idée de travailler sur des projets stimulants et de développer des relations professionnelles significatives avec d'autres développeurs.
