@@ -20,4 +20,3 @@ Je suis enthousiaste à l'idée de travailler sur des projets stimulants et de d
 
 # Profil TryHackMe : 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Deadlink2a.png" alt="TryHackMe">
-<img src="https://tryhackme.com/badge/2413547"></img>
