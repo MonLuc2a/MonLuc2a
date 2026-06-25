@@ -23,9 +23,7 @@ Apprenti CISO au **Crédit Agricole**, aujourd'hui à la recherche d'un poste de
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/-Wazuh-3CB371?style=flat-square)
-![ELK](https://img.shields.io/badge/-ELK%20Stack-005571?style=flat-square&logo=elastic&logoColor=white)
  
 **Domaines** : EBIOS RM · ISO 27001 · DORA / NIS2 
  
