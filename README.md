@@ -1,22 +1,37 @@
-### Hi there 👋
-
-# Welcome to my Github profile
-
-My name is Lucas and I'm a student. I code mainly in Python, C++, C#, SQL and Golang. I also do pentest.
-
-On this profile you will find my projects for school.
-
-Thank you for your visit and have a nice surfing!
-
-- 🔭 I’m currently working for my 3 degree in cybersecurity
-- 🌱 I’m currently learning new language
-- 📫 How to reach me: lucas.monribot@ynov.com
-
-# Éducation
-
-Ynov Toulouse Campus, B3 Cybersécurité
-
-I'm enthusiastic about working on challenging projects and developing meaningful professional relationships with other developers.
-
-# Profil TryHackMe : 
-![Deadlink2a](https://github.com/MonLuc2a/MonLuc2a/assets/98400136/c4ec7995-6ae2-4956-ac9f-07e51f01334a)
+# 👋 Lucas
+ 
+**Étudiant en Master 2 Cybersécurité (RNCP Niveau 7 "Expert en Cybersécurité") — Ynov Campus Toulouse**
+ 
+Apprenti CISO au **Crédit Agricole**, aujourd'hui à la recherche d'un poste de **CISO / Risk Manager / Chef de Projet** (France, avec une préférence pour Toulouse).
+ 
+---
+ 
+## 🎯 À propos
+ 
+- 🛡️ Profil orienté **GRC, gestion des risques (EBIOS RM, ISO 27001)**
+- 🏦 Expérience terrain en alternance dans le secteur bancaire (Crédit Agricole) : reporting cybersécurité, suivi des vulnérabilités, pilotage de la sécurité opérationnelle
+- 🎓 Certification RNCP attendue en **septembre 2026**
+- 🧰 Je conçois aussi des outils internes pour les RSSI
+ 
+---
+ 
+## 🛠️ Compétences techniques
+ 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![Wazuh](https://img.shields.io/badge/-Wazuh-3CB371?style=flat-square)
+![ELK](https://img.shields.io/badge/-ELK%20Stack-005571?style=flat-square&logo=elastic&logoColor=white)
+ 
+**Domaines** : EBIOS RM · ISO 27001 · DORA / NIS2 
+ 
+---
+ 
+## 📫 Me contacter
+ 
+- ✉️ lucas.monribot@ynov.com
+- 💼 LinkedIn : [*ici*](https://www.linkedin.com/in/lucas-monribot-762a05263/)
