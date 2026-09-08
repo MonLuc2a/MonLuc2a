@@ -31,5 +31,4 @@ Apprenti CISO au **Crédit Agricole**, aujourd'hui à la recherche d'un poste de
  
 ## 📫 Me contacter
  
-- ✉️ lucas.monribot@ynov.com
 - 💼 LinkedIn : [*ici*](https://www.linkedin.com/in/lucas-monribot-762a05263/)
